@@ -1,4 +1,10 @@
-### Hi there 👋
+### Technology Product Manager, Budding Software Engineer
+
+Business nerd turned geek. While I don't have formal technical training, I am passionate about technology and teaching myself programming and computer science to deepen my technical chops in my role as a Product Manager.
+
+I'm always looking for projects to work on to practice and expand skills, and always interested in learning tips and tricks.
+
+📫 How to reach me: https://www.linkedin.com/in/killenherring
 
 <!--
 **killenh/killenh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
